@@ -6,13 +6,13 @@
 
 ## Features
 
-[ ] Authentication
-[ ] Video Call
-[x] Conferance Call
-[ ] Switch from Audio call to Video call or vice versa
-[ ] Screen sharing
-[ ] record conferance call
-[ ] Chat
+- [ ] Authentication
+- [ ] Video Call
+- [x] Conferance Call
+- [ ] Switch from Audio call to Video call or vice versa
+- [ ] Screen sharing
+- [ ] record conferance call
+- [ ] Chat
 
 ## Requirements
 
