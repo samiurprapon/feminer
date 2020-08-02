@@ -16,7 +16,7 @@
 
 ## Requirements
 
-For development, you will only need Node.js and node global packages - npm, peerjs installed in your environement.
+For development, you will only need Node.js and node global packages - npm installed in your environement.
 
 If the installation was successful, you should be able to run the following command.
 
@@ -25,10 +25,6 @@ If the installation was successful, you should be able to run the following comm
 
     $ npm --version
     6.14.6
-
-You need install a global packages -
-
-    $ npm install -g peerjs
 
 
 ## Installation
@@ -41,13 +37,8 @@ You need install a global packages -
 
 #### Running the project
 
-Start the server
-
     $ npm run test
 
-Open an another terminal -
-
-    $ peerjs --port 3001
 
 ## Demo
 
